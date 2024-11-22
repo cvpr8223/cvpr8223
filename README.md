@@ -12,6 +12,7 @@ Here we show the RGB+R+G+B channels separately (converted into JPEG to save spac
 - blue-corrupted: [link](./viewer/viewer-blue-corrupted-split/view.md)
 - blue-intact: [link](./viewer/viewer-blue-intact-split/view.md)
 - blue-corrupted-pseudogt: [link](./viewer/viewer-blue-corrupted-pgt-split/view.md)
+- side-by-side-pseudogt: [link](./viewer/viewer-side-by-side/view.md)
 
 ### LDR data Viewer
 
