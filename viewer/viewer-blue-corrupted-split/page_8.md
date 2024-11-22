@@ -1,4 +1,4 @@
-# Image Gallery (negative-preview-8bit-split/blue-corrupted)
+# Image Gallery, RGB|R|G|B(negative-preview-8bit-split/blue-corrupted)
 Page 8 of 30
 
 [← Previous](page_7.md) | [Next →](page_9.md)

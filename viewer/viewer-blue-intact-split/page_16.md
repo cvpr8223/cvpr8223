@@ -1,4 +1,4 @@
-# Image Gallery (negative-preview-8bit-split/blue-intact)
+# Image Gallery, RGB|R|G|B(negative-preview-8bit-split/blue-intact)
 Page 16 of 20
 
 [← Previous](page_15.md) | [Next →](page_17.md)

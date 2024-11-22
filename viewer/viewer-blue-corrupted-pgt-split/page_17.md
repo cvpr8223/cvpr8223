@@ -1,4 +1,4 @@
-# Image Gallery (pseudogt-8bit-split/blue-corrupted)
+# Image Gallery, RGB|R|G|B(pseudogt-8bit-split/blue-corrupted)
 Page 17 of 25
 
 [← Previous](page_16.md) | [Next →](page_18.md)
