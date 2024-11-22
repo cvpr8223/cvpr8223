@@ -22,6 +22,20 @@ Here we show the LDR preview versions of the negative films:
 - blue-intact: [link](./viewer/viewer-blue-intact/view.md)
 - blue-corrupted-pseudogt: [link](./viewer/viewer-blue-corrupted-pgt/view.md)
 
+### HDR sample data
+
+#### blue-corrupted
+
+- [19960807A-12-new-orleans-siggraph96.dng](https://github.com/cvpr8223/cvpr8223/releases/download/rc0/19960807A-12-new-orleans-siggraph96.dng)
+- [19960807A-12-new-orleans-siggraph96.tif](https://github.com/cvpr8223/cvpr8223/releases/download/rc0/19960807A-12-new-orleans-siggraph96.tif)
+- [19960818H-34-san-francisco.dng](https://github.com/cvpr8223/cvpr8223/releases/download/rc0/19960818H-34-san-francisco.dng)
+- [19960812D-14-las-vegas.tif](https://github.com/cvpr8223/cvpr8223/releases/download/rc0/19960812D-14-las-vegas.tif)
+
+#### blue-intact
+
+- [19960812D-14-las-vegas.dng](https://github.com/cvpr8223/cvpr8223/releases/download/rc0/19960812D-14-las-vegas.dng)
+- [19960818H-34-san-francisco.tif](https://github.com/cvpr8223/cvpr8223/releases/download/rc0/19960818H-34-san-francisco.tif)
+
 ## Dataset Description
 
 This set of images is collected for studying the research problem of restoring the corrupted negative films. Due to the physical nature of negative film, the red, green, and blue light-sensitive layers are located differently inside the negative film. Therefore, the rates of  deterioration of these three layers are different. The corresponding author found that the blue channel is relatively vulnerable compared to the other two channels. Because the blue light-sensitive layer is on the outermost layer on the emulsion side. That is, the deterioration rates are heterogeneous. This characteristic is inherited from its ancestor, i.e., storing the three color negatives (R, G, B) on three separate glass plates by Prokudin-Gorsky. 
