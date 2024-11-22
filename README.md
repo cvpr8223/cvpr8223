@@ -1,7 +1,27 @@
 
 # BlueNeg: A 35mm Negative Film Dataset for Restoring Channel-Heterogeneous Deterioration
 
-## Description
+## Repo Contents
+
+Due to the storage quota of GitHub, we only provide the LDR preview versions, meta data, and a limited number of HDR samples of our BlueNeg dataset in this repo. The full dataset will be publicly available on HuggingFace Hub upon publication. 
+
+### Channel viewer
+
+Here we show the RGB+R+G+B channels separately (converted into JPEG to save space, the original RGB for LDR preview is in PNG format):
+
+- blue-corrupted: [link](./viewer/viewer-blue-corrupted-split/view.md)
+- blue-intact: [link](./viewer/viewer-blue-intact-split/view.md)
+- blue-corrupted-pseudogt: [link](./viewer/viewer-blue-corrupted-pgt-split/view.md)
+
+### LDR data Viewer
+
+Here we show the LDR preview versions of the negative films: 
+
+- blue-corrupted: [link](./viewer/viewer-blue-corrupted/view.md)
+- blue-intact: [link](./viewer/viewer-blue-intact/view.md)
+- blue-corrupted-pseudogt: [link](./viewer/viewer-blue-corrupted-pgt/view.md)
+
+## Dataset Description
 
 This set of images is collected for studying the research problem of restoring the corrupted negative films. Due to the physical nature of negative film, the red, green, and blue light-sensitive layers are located differently inside the negative film. Therefore, the rates of  deterioration of these three layers are different. The corresponding author found that the blue channel is relatively vulnerable compared to the other two channels. Because the blue light-sensitive layer is on the outermost layer on the emulsion side. That is, the deterioration rates are heterogeneous. This characteristic is inherited from its ancestor, i.e., storing the three color negatives (R, G, B) on three separate glass plates by Prokudin-Gorsky. 
 
